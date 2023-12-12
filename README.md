@@ -1,3 +1,2 @@
-# test-directory
-
-This is a second example
+# This is my first repository 
+I am doing these changes from Github website to learn about pulling files from github.
